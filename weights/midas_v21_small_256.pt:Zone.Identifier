@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/isl-org/MiDaS
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/193518067/eccb1fd6-8775-468e-b609-263912546d77?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230624%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230624T141357Z&X-Amz-Expires=300&X-Amz-Signature=ee56ee81545c046fede3cfcdd32b676850eeec18e14fb4d432d8ffc9d50e5117&X-Amz-SignedHeaders=host&actor_id=104471845&key_id=0&repo_id=193518067&response-content-disposition=attachment%3B%20filename%3Dmidas_v21_small_256.pt&response-content-type=application%2Foctet-stream

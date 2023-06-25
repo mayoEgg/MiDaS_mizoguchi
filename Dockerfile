@@ -1,5 +1,5 @@
 # enables cuda support in docker
-FROM nvidia/cuda:10.2-cudnn7-runtime-ubuntu18.04
+FROM nvidia/cuda:12.1.1-runtime-ubuntu20.04
 
 # install python 3.6, pip and requirements for opencv-python 
 # (see https://github.com/NVIDIA/nvidia-docker/issues/864)

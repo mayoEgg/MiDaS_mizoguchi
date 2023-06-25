@@ -10,7 +10,7 @@ import time
 
 import numpy as np
 
-from imutils.video import VideoStream
+# from imutils.video import VideoStream
 from midas.model_loader import default_models, load_model
 
 first_execution = True
